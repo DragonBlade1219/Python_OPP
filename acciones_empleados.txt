@@ -1,0 +1,2 @@
+Acción: realizar_accion_empleado, Argumentos: ('Iniciar turno',), {}
+Acción: realizar_accion_empleado, Argumentos: ('Finalizar turno',), {}
